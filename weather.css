@@ -1,0 +1,15 @@
+.bar{
+    box-shadow: 5px 5px 20px 5px black;
+    text-shadow: 5px 5px 2px black;
+    color: white;
+    background-color: khaki;
+    border-style: double;
+    border: 1px solid black;
+    border-radius: 25px; 
+    width: 500px; 
+}
+
+*{
+    background-color: khaki;
+    margin: 30px;
+}
